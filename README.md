@@ -1,0 +1,1 @@
+Aggregation in Java is a specialized form of association that represents a "has-a" or "whole/part" relationship between two classes, where one class (the aggregate) contains a reference to another class (the component).
